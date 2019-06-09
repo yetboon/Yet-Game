@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\Yet Game\Yet Game\bin\Debug\Yet Game.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Yet Game\Yet Game\obj\Debug\Yet Game.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Yet Game\Yet Game\obj\Debug\Yet_Game.Form_GS.resources
+c:\users\user\documents\visual studio 2015\Projects\Yet Game\Yet Game\obj\Debug\Yet_Game.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Yet Game\Yet Game\obj\Debug\Yet Game.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Yet Game\Yet Game\bin\Debug\Yet Game.exe
+c:\users\user\documents\visual studio 2015\Projects\Yet Game\Yet Game\bin\Debug\Yet Game.pdb
+c:\users\user\documents\visual studio 2015\Projects\Yet Game\Yet Game\obj\Debug\Yet Game.exe
+c:\users\user\documents\visual studio 2015\Projects\Yet Game\Yet Game\obj\Debug\Yet Game.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\obj\Debug\Yet_Game.Ready.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\obj\Debug\Yet_Game.Form_About.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\bin\Debug\Yet Game.exe.config
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\bin\Debug\Yet Game.exe
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\bin\Debug\Yet Game.pdb
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\obj\Debug\Yet Game.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\obj\Debug\Yet_Game.Form_About.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\obj\Debug\Yet_Game.Ready.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\obj\Debug\Yet_Game.Form_GS.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\obj\Debug\Yet_Game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\obj\Debug\Yet Game.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\obj\Debug\Yet Game.exe
+C:\Users\Administrator\Desktop\vs2015\Projects\Yet Game\Yet Game\obj\Debug\Yet Game.pdb

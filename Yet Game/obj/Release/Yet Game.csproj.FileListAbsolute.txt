@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\bin\Release\Yet Game.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\bin\Release\Yet Game.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\bin\Release\Yet Game.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\obj\Release\Yet_Game.Form_About.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\obj\Release\Yet_Game.Ready.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\obj\Release\Yet_Game.Form_GS.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\obj\Release\Yet_Game.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\obj\Release\Yet Game.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\obj\Release\Yet Game.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\obj\Release\Yet Game.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yet Game\Yet Game\obj\Release\Yet Game.csprojResolveAssemblyReference.cache
